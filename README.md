@@ -7,4 +7,3 @@
 - 📫 Como me encontrar: nas redes sociais como @vecchimichel
   
 - ⚡ Curiosidades: Astronomia, aviões, carros, engenharia, tecnologia e super-heróis.
-- -->
