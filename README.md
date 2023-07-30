@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Michel 👋
 
-- 🧑🏽‍💼 Experiente em vendas e desenvolvimento de produtos nas áreas: têxtil, automotiva, química e papel e celulose.
+- 🧑🏽‍💼 Consultor em vendas e desenvolvimento de produtos nas áreas: têxtil, automotiva, química e papel e celulose.
 
 - 🔭 Pesquisador nas áreas de desenvolvimento econômico e relações comerciais internacionais.
 
