@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Michel 👋
 
-- 🔭 Trabalho com análise de dados, especialmente nas áreas de desenvolvimento econômico e relações comerciais internacionais.
+- 🔭 Pesquisador nas áreas de desenvolvimento econômico e relações comerciais internacionais.
 
 - 🧪 Técnico químico pela ETEC Getúlio Vargas.
   
