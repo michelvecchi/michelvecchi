@@ -16,19 +16,25 @@
 
 <div style="display: inline_block"><br>
 
-<img align="center" alt="Michel-Apple" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
-
 <img align="center" alt="Michel-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
 
-<img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Michel-Chrome" height="30" width="40" src="img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg">
 
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Michel-Google" height="30" width="40" src="img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
 
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Michel-LinkedIn" height="30" width="40" src="img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 
-<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Michel-Python" height="30" width="40" src="img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
-<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="Michel-R" height="30" width="40" src="img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+
+<img align="center" alt="Michel-IBMSPSS" height="30" width="40" src="img src="img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg">
+
+<img align="center" alt="Michel-Trello" height="30" width="40" src="img src="img src="img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
+
+<img align="center" alt="Michel-Twitter" height="30" width="40" src="img src="img src="img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg">
+
+<img align="center" alt="Michel-Windows" height="30" width="40" src="img src="img src="img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 
 </div>
 
