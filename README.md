@@ -11,3 +11,8 @@
 - 📫 Como me encontrar: nas redes sociais como @vecchimichel
   
 - ⚡ Curiosidades: Astronomia, aviões, carros, engenharia, tecnologia e super-heróis.
+
+###
+<div>
+  https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+</div>
